@@ -1,0 +1,195 @@
+@charset "utf-8";
+
+/* Simpele Reset */
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	font-weight: normal;
+}
+
+/* Achtergrond kleuren */
+
+body {
+	background-color: #231F20;
+}
+table input,
+table select,
+.reacties {
+	background-color: #111;
+}
+
+/* Kleuren */
+
+body,
+nav#hoofdnavigatie a,
+table input,
+table select {
+	color: silver;	
+}
+h1,
+a,
+nav#hoofdnavigatie .actief,
+table th,
+table input.submit {
+	color: #FDCB0D;
+}
+
+/* Typografie */
+
+body {
+	font-size: 13px;
+	line-height: 1.4em;
+	font-weight: normal;
+	font-family: arial, Helvetica, sans-serif;
+}
+header#hoofd h1 {
+	font-size: 3em;
+}
+nav#hoofdnavigatie {
+	text-transform: uppercase;
+}
+nav#hoofdnavigatie ul {
+	list-style-type: none;
+}
+p.intro {
+	font-style: italic;
+}
+a {
+	text-decoration: none;
+}
+form th {
+	text-align: left;
+}
+table input.submit {
+	font-size: 1.4em;
+}
+
+/* Marges */
+
+#huls {
+	margin: 25px auto;
+}
+nav#hoofdnavigatie {
+	margin: 25px;
+}
+nav#hoofdnavigatie {
+	margin-left: 0;
+}
+nav#hoofdnavigatie {
+	margin-right: 0;
+}
+.reacties p {
+	margin-bottom: 0;
+}
+header#hoofd h1 {
+	margin-left: 20px;
+}
+nav#hoofdnavigatie a,
+article#pagina .kolom:first-of-type {
+	margin-right: 20px;
+}
+article#pagina h1,
+p,
+.reacties {
+	margin: 0 0 25px;
+}
+
+figcaption,
+footer#voet {
+	margin-top: 20px;
+}
+footer#voet {
+	margin-bottom: 50px;
+}
+
+/* Paddings */
+
+nav#hoofdnavigatie ul, 
+table td,
+table input.tekstvak,
+table input.submit,
+.reacties,
+footer#voet {
+	padding: 10px;
+}
+nav#hoofdnavigatie ul,
+footer#voet {
+	padding-left: 0;
+	padding-right: 0;
+}
+table:first-of-type,
+table th {
+	padding-bottom: 15px;
+}
+table td {
+	padding-top: 15px;
+}
+
+/* Posities en groottes */
+
+#huls {
+		width: 760px;
+}
+header#hoofd h1,
+nav#hoofdnavigatie a,
+footer#voet nav {
+	display: inline-block;
+}
+article#pagina,
+footer#voet {
+	overflow: hidden;
+}
+article#pagina img,
+table {
+	width: 100%;
+}
+article#pagina .kolom {
+	float: left;
+	width: 370px;
+}
+table .labels {
+	width: 95px;
+}
+table input.tekstvak {
+	width: 300px;
+}
+footer#voet nav {
+	float: left;
+}
+footer#voet small {
+	float: right;
+}
+nav.voet a:after {
+	content: "|";
+}
+nav.voet a:last-of-type:after {
+	content: "" ;
+}
+
+/* Effecten */
+
+nav#hoofdnavigatie ul,
+footer#voet {
+	border-top: 1px;
+	border-bottom: 1px;
+	border-style: solid;
+	border-color: #EA4B37;
+}
+table th {
+	border-bottom: 1px solid ;
+	border-style: solid;
+	border-color: #EA4B37;
+}
+article#pagina img.full {
+	box-shadow: 0 0 20px black;
+}
+.reacties {
+	border-radius: 5px;
+}
+
+
+
+
+
+
