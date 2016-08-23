@@ -9,7 +9,7 @@ What people say
 
 ##Description
 This was my final project for the HTML5 course at CVO de verdieping.  
-This is a fictive site! I designed the 5star building logo for 5star building but this project has nothing to do with FSB.
+This is a fictive site! I designed the 5star building logo but this project has nothing to do with FSB.  
 Its pure about writing nice HTML5. No scripting, no preprocessors, no css methodology like using BEM.  
 
 ##Project rules
