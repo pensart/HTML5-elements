@@ -1,15 +1,16 @@
 #HTML5 elements assignment
 
-home  
+homepage 
 ![alt text](cover-home.jpg "HTML5 elements")  
-Order  
+Order pictures  
 ![alt text](cover-bestel.jpg "HTML5 elements")  
-
+What people say
 ![alt text](cover-reacties.jpg "HTML5 elements")
 
 ##Description
 This was my final project for the HTML5 course at CVO de verdieping.  
-Its pure about writing nice HTML5. No scripting, no preprocessors, no css methodology like using BEM.
+This is a fictive site! I designed the 5star building logo for 5star building but this project has nothing to do with FSB.
+Its pure about writing nice HTML5. No scripting, no preprocessors, no css methodology like using BEM.  
 
 ##Project rules
 * Valid HTML & CSS
